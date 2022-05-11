@@ -1,3 +1,7 @@
+This is a functioning login form made with react and has built in validation. feel free to use it!.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
